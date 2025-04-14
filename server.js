@@ -1,7 +1,6 @@
 require('dotenv').config();
 const express = require('express');
 const app = express();
-const path = require('path');
 const cors = require('cors');
 const corsOptions = require('./config/corsOptions');
 const { logger } = require('./middleware/logEvents');
@@ -12,6 +11,8 @@ const credentials = require('./middleware/credentials');
 const mongoose = require('mongoose');
 const connectDB = require('./config/dbConn');
 const PORT = process.env.PORT || 3500;
+
+const path = require('path');
 
 // Connect to MongoDB
 connectDB();
@@ -27,7 +28,7 @@ app.use(credentials);
 app.use(cors(corsOptions));
 
 // built-in middleware to handle urlencoded form data
-app.use(express.urlencoded({ extended: false }));
+app.use(express.urlencoded({ extended: true }));
 
 // built-in middleware for json 
 app.use(express.json());
@@ -38,16 +39,30 @@ app.use(cookieParser());
 //serve static files
 app.use('/', express.static(path.join(__dirname, '/public')));
 
+
+
 // routes
 app.use('/', require('./routes/root'));
 app.use('/register', require('./routes/register'));
 app.use('/auth', require('./routes/auth'));
 app.use('/refresh', require('./routes/refresh'));
 app.use('/logout', require('./routes/logout'));
+app.use('/upload', require('./routes/api/upload'))
 
-app.use(verifyJWT);
-app.use('/employees', require('./routes/api/employees'));
-app.use('/users', require('./routes/api/users'));
+app.use('/assets', express.static(path.join(__dirname, 'assets')));
+
+app.use('/reservations', require('./routes/api/reservations'))
+app.use('/units', require('./routes/api/units'))
+app.use('/examples/categories', require('./routes/api/categories'))
+app.use('/examples', require('./routes/api/examples'))
+app.use('/clients', require('./routes/api/clients'))
+app.use('/extras', require('./routes/api/extras'))
+
+
+// app.use(verifyJWT);
+// app.use('/employees', require('./routes/api/employees'));
+// app.use('/products', require('./routes/api/products'))
+// app.use('/users', require('./routes/api/users'));
 
 app.all('*', (req, res) => {
     res.status(404);

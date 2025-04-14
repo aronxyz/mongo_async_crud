@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Sudadera gris",
+    "description": "Sudadera gris clásica de algodón, cómoda y versátil.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408325/Frame_78_ulakgl.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a9fc8f5473188f621a6",
+    "price": 25.99,
+    "stock": 100
+  },
+  {
+    "name": "Sudadera rosa Stranger Things",
+    "description": "Sudadera rosa con diseño de personajes y detalles gráficos.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719407884/ptnjopww5kjedfm1u4wo.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a9fc8f5473188f621a6",
+    "price": 35.99,
+    "stock": 80
+  },
+  {
+    "name": "Sudadera gris con capucha",
+    "description": "Sudadera gris con capucha, ideal para días frescos.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408324/Frame_77_uysaze.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a9fc8f5473188f621a6",
+    "price": 29.99,
+    "stock": 120
+  },
+  {
+    "name": "Camiseta básica muscle fit",
+    "description": "Camiseta ajustada de algodón, perfecta para mostrar una silueta atlética.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408326/Frame_80_fhhqix.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a66c8f5473188f6219c",
+    "price": 19.99,
+    "stock": 175
+  },
+  {
+    "name": "Camiseta básica manga corta algodón",
+    "description": "Camiseta de algodón suave con manga corta, ideal para uso diario.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408324/Frame_76ff_xa6k1q.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a66c8f5473188f6219c",
+    "price": 12.99,
+    "stock": 90
+  },
+  {
+    "name": "Camiseta básica tejido suave",
+    "description": "Camiseta de tejido suave y cómodo, perfecta para cualquier ocasión.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408325/Frame_79_knl33u.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a66c8f5473188f6219c",
+    "price": 9.99,
+    "stock": 215
+  },
+  {
+    "name": "Camisa oxford",
+    "description": "Camisa oxford clásica de algodón, perfecta para ocasiones formales o casuales.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408358/Slice_161_vvgyjz.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a74c8f5473188f6219e",
+    "price": 49.99,
+    "stock": 50
+  },
+  {
+    "name": "Camisa elástica",
+    "description": "Camisa elástica que ofrece comodidad y estilo, ideal para el trabajo o eventos sociales.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408354/Slice_151_xelets.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a74c8f5473188f6219e",
+    "price": 59.99,
+    "stock": 115
+  },
+  {
+    "name": "Camisa cuadros",
+    "description": "Camisa de cuadros moderna y versátil, perfecta para un look casual y elegante.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408351/Slice_141_uh3e4l.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a74c8f5473188f6219e",
+    "price": 39.99,
+    "stock": 70
+  },
+  {
+    "name": "Jeans standard",
+    "description": "Jeans estándar de corte clásico, cómodos y duraderos para el día a día.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408326/Frame_81_rzb3rn.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a8bc8f5473188f621a2",
+    "price": 19.99,
+    "stock": 75
+  },
+  {
+    "name": "Jeans slim",
+    "description": "Jeans slim fit, ajustados y modernos, perfectos para un estilo casual y elegante.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408328/Frame_82_kil1ya.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a8bc8f5473188f621a2",
+    "price": 59.99,
+    "stock": 115
+  },
+  {
+    "name": "Jeans rotos",
+    "description": "Jeans rotos con diseño desgastado, ideales para un look moderno y atrevido.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408328/Frame_83_k0t7tx.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a8bc8f5473188f621a2",
+    "price": 39.99,
+    "stock": 30
+  },
+  {
+    "name": "Pantalón cargo multibolsillos",
+    "description": "Pantalón cargo con múltiples bolsillos, ideal para actividades al aire libre.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408366/Slice_172_lvhdwx.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a94c8f5473188f621a4",
+    "price": 29.99,
+    "stock": 75
+  },
+  {
+    "name": "Pantalón jogger básico",
+    "description": "Pantalón jogger cómodo y versátil, perfecto para el uso diario y deporte.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408360/Slice_162_ngsefl.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a94c8f5473188f621a4",
+    "price": 14.99,
+    "stock": 115
+  },
+  {
+    "name": "Bermuda cargo tejido ripstop",
+    "description": "Bermuda cargo de tejido ripstop, resistente y perfecta para aventuras al aire libre.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408356/Slice_152_qoolnq.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a84c8f5473188f621a0",
+    "price": 29.99,
+    "stock": 75
+  },
+  {
+    "name": "Bermuda cargo cintura elástica",
+    "description": "Bermuda cargo con cintura elástica, cómoda y práctica para uso diario.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408352/Slice_142_uxmzav.png",
+    "category": "667c18f78515768b9eebc2d2",
+    "subcategory": "667c1a84c8f5473188f621a0",
+    "price": 14.99,
+    "stock": 115
+  },
+  {
+    "name": "Cronógrafo automático esfera negra",
+    "description": "Elegante cronógrafo automático con esfera negra. Precisión y estilo en cada momento.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408346/Slice_14_hhojk5.png",
+    "category": "667c1b4cc8f5473188f621b2",
+    "subcategory": "667c1b69c8f5473188f621b4",
+    "price": 149.99,
+    "stock": 10
+  },
+  {
+    "name": "Reloj de acero Breitling Superocean Héritage",
+    "description": "Reloj de acero robusto y elegante. Aventura y sofisticación en cada detalle.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408347/Slice_15_ahpfdy.png",
+    "category": "667c1b4cc8f5473188f621b2",
+    "subcategory": "667c1b69c8f5473188f621b4",
+    "price": 249.99,
+    "stock": 15
+  },
+  {
+    "name": "Reloj clásico Farer Beagle",
+    "description": "Reloj clásico que combina encanto vintage con funcionalidad moderna. Elegancia atemporal.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408348/Slice_16_q4qix8.png",
+    "category": "667c1b4cc8f5473188f621b2",
+    "subcategory": "667c1b69c8f5473188f621b4",
+    "price": 274.99,
+    "stock": 10
+  },
+  {
+    "name": "Reloj Panerai Luminor",
+    "description": "Icónico reloj de lujo con un diseño excepcional. Precisión y estilo sin igual.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408349/Slice_17_axev8m.png",
+    "category": "667c1b4cc8f5473188f621b2",
+    "subcategory": "667c1b69c8f5473188f621b4",
+    "price": 2199.99,
+    "stock": 5
+  },
+  {
+    "name": "Cinturón efecto piel marrón",
+    "description": "Cinturón de piel marrón con un diseño clásico y acabado excepcional. Complemento perfecto para cualquier ocasión.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719429942/pngwingw_ana2fv.png",
+    "category": "667c1b4cc8f5473188f621b2",
+    "subcategory": "667c1b71c8f5473188f621b6",
+    "price": 7.99,
+    "stock": 115
+  },
+  {
+    "name": "Cinturón efecto piel negro",
+    "description": "Cinturón de piel negro con un diseño elegante y detalles de alta calidad. Un accesorio imprescindible para el hombre moderno.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719429943/pngwingv_ded2o8.png",
+    "category": "667c1b4cc8f5473188f621b2",
+    "subcategory": "667c1b71c8f5473188f621b6",
+    "price": 9.99,
+    "stock": 115
+  },
+  {
+    "name": "Cartera efecto piel marrón",
+    "description": "Cartera de piel marrón con un diseño clásico y acabado excepcional. Ideal para organizar tus tarjetas y dinero con estilo.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719429943/pngwingx_ribl9n.png",
+    "category": "667c1b4cc8f5473188f621b2",
+    "subcategory": "667c1b69c8f5473188f621b4",
+    "price": 7.99,
+    "stock": 45
+  },
+  {
+    "name": "Billetera piel marrón",
+    "description": "Billetera de piel marrón con un diseño elegante y detalles de alta calidad. Perfecta para el hombre moderno que valora la funcionalidad y el estilo.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719429943/pngwingy_xr4dqr.png",
+    "category": "667c1b4cc8f5473188f621b2",
+    "subcategory": "667c1b69c8f5473188f621b4",
+    "price": 24.99,
+    "stock": 25
+  },
+  {
+    "name": "Zapato derby marrón",
+    "description": "Zapato derby de piel marrón con un diseño clásico y acabado excepcional. Perfecto para ocasiones formales y casuales.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719417382/pngwing_iuzut7.png",
+    "category": "667c1acfc8f5473188f621a8",
+    "subcategory": "667c1b03c8f5473188f621ac",
+    "price": 7.99,
+    "stock": 45
+  },
+  {
+    "name": "Zapato vestir marrón",
+    "description": "Zapato de vestir marrón con un diseño elegante y detalles de alta calidad. Ideal para complementar tu estilo ejecutivo con sofisticación.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408366/Slice_173_x8yuis.png",
+    "category": "667c1acfc8f5473188f621a8",
+    "subcategory": "667c1b03c8f5473188f621ac",
+    "price": 74.99,
+    "stock": 125
+  },
+  {
+    "name": "Bota trekking",
+    "description": "Bota de trekking diseñada para brindar comodidad y soporte en terrenos difíciles. Ideal para aventuras al aire libre.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408356/Slice_153_iyxbtj.png",
+    "category": "667c1acfc8f5473188f621a8",
+    "subcategory": "667c1b13c8f5473188f621b0",
+    "price": 124.99,
+    "stock": 225
+  },
+  {
+    "name": "Bota táctica",
+    "description": "Bota táctica de alta calidad, perfecta para actividades al aire libre y uso profesional. Resistente y duradera.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408353/Slice_143_z6yntj.png",
+    "category": "667c1acfc8f5473188f621a8",
+    "subcategory": "667c1b13c8f5473188f621b0",
+    "price": 139.99,
+    "stock": 215
+  },
+  {
+    "name": "Nike Air Max 2017",
+    "description": "Zapatillas Nike Air Max 2017, combinan estilo y comodidad con tecnología de amortiguación avanzada. Perfectas para el uso diario.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719417384/pngwinga_os6iau.png",
+    "category": "667c1acfc8f5473188f621a8",
+    "subcategory": "667c1b0ac8f5473188f621ae",
+    "price": 124.99,
+    "stock": 205
+  },
+  {
+    "name": "Nike Air Max 97",
+    "description": "Zapatillas Nike Air Max 97, diseño icónico con comodidad superior y tecnología de amortiguación. Ideal para un estilo de vida activo.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719417391/pngwingc_mmidh9.png",
+    "category": "667c1acfc8f5473188f621a8",
+    "subcategory": "667c1b0ac8f5473188f621ae",
+    "price": 149.99,
+    "stock": 150
+  },
+  {
+    "name": "Nike KD 9",
+    "description": "Zapatillas Nike KD 9, diseñadas para el máximo rendimiento en la cancha y comodidad fuera de ella. Innovación y estilo en cada paso.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719417394/pngwingd_bqimgc.png",
+    "category": "667c1acfc8f5473188f621a8",
+    "subcategory": "667c1b0ac8f5473188f621ae",
+    "price": 249.99,
+    "stock": 75
+  }
+]

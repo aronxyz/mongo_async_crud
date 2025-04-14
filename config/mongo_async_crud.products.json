@@ -1,0 +1,684 @@
+[
+  {
+    "_id": {
+      "$oid": "667e918760a35a34c10f07e1"
+    },
+    "name": "Sudadera gris",
+    "price": 25.99,
+    "description": "Sudadera gris clásica de algodón, cómoda y versátil.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408325/Frame_78_ulakgl.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a9fc8f5473188f621a6"
+    },
+    "stock": 100,
+    "sales": {
+      "onSale": true,
+      "discount": 10
+    },
+    "salesCount": 20,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e919060a35a34c10f07e3"
+    },
+    "name": "Sudadera rosa Stranger Things",
+    "price": 35.99,
+    "description": "Sudadera rosa con diseño de personajes y detalles gráficos.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719407884/ptnjopww5kjedfm1u4wo.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a9fc8f5473188f621a6"
+    },
+    "stock": 80,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 15,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e919f60a35a34c10f07e5"
+    },
+    "name": "Sudadera gris con capucha",
+    "price": 29.99,
+    "description": "Sudadera gris con capucha, ideal para días frescos.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408324/Frame_77_uysaze.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a9fc8f5473188f621a6"
+    },
+    "stock": 120,
+    "sales": {
+      "onSale": true,
+      "discount": 15
+    },
+    "salesCount": 30,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e91b060a35a34c10f07e7"
+    },
+    "name": "Camiseta básica muscle fit",
+    "price": 19.99,
+    "description": "Camiseta ajustada de algodón, perfecta para mostrar una silueta atlética.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408326/Frame_80_fhhqix.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a66c8f5473188f6219c"
+    },
+    "stock": 175,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 50,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e91cc60a35a34c10f07e9"
+    },
+    "name": "Camiseta básica manga corta algodón",
+    "price": 12.99,
+    "description": "Camiseta de algodón suave con manga corta, ideal para uso diario.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408324/Frame_76ff_xa6k1q.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a66c8f5473188f6219c"
+    },
+    "stock": 270,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 100,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e91f760a35a34c10f07eb"
+    },
+    "name": "Camiseta básica tejido suave",
+    "price": 9.99,
+    "description": "Camiseta de tejido suave y cómodo, perfecta para cualquier ocasión.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408325/Frame_79_knl33u.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a66c8f5473188f6219c"
+    },
+    "stock": 215,
+    "sales": {
+      "onSale": true,
+      "discount": 5
+    },
+    "salesCount": 60,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e920360a35a34c10f07ed"
+    },
+    "name": "Camisa oxford",
+    "price": 49.99,
+    "description": "Camisa oxford clásica de algodón, perfecta para ocasiones formales o casuales.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408358/Slice_161_vvgyjz.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a74c8f5473188f6219e"
+    },
+    "stock": 150,
+    "sales": {
+      "onSale": true,
+      "discount": 20
+    },
+    "salesCount": 40,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e921460a35a34c10f07ef"
+    },
+    "name": "Camisa elástica",
+    "price": 59.99,
+    "description": "Camisa elástica que ofrece comodidad y estilo, ideal para el trabajo o eventos sociales.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408354/Slice_151_xelets.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a74c8f5473188f6219e"
+    },
+    "stock": 115,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 25,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e922060a35a34c10f07f1"
+    },
+    "name": "Camisa cuadros",
+    "price": 39.99,
+    "description": "Camisa de cuadros moderna y versátil, perfecta para un look casual y elegante.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408351/Slice_141_uh3e4l.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a74c8f5473188f6219e"
+    },
+    "stock": 70,
+    "sales": {
+      "onSale": true,
+      "discount": 25
+    },
+    "salesCount": 30,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e922f60a35a34c10f07f3"
+    },
+    "name": "Jeans standard",
+    "price": 19.99,
+    "description": "Jeans estándar de corte clásico, cómodos y duraderos para el día a día.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408326/Frame_81_rzb3rn.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a8bc8f5473188f621a2"
+    },
+    "stock": 175,
+    "sales": {
+      "onSale": true,
+      "discount": 15
+    },
+    "salesCount": 35,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e923860a35a34c10f07f5"
+    },
+    "name": "Jeans slim",
+    "price": 59.99,
+    "description": "Jeans slim fit, ajustados y modernos, perfectos para un estilo casual y elegante.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408328/Frame_82_kil1ya.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a8bc8f5473188f621a2"
+    },
+    "stock": 115,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 50,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e925760a35a34c10f07f7"
+    },
+    "name": "Jeans rotos",
+    "price": 39.99,
+    "description": "Jeans rotos con diseño desgastado, ideales para un look moderno y atrevido.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408328/Frame_83_k0t7tx.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a8bc8f5473188f621a2"
+    },
+    "stock": 230,
+    "sales": {
+      "onSale": true,
+      "discount": 5
+    },
+    "salesCount": 60,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e926160a35a34c10f07f9"
+    },
+    "name": "Pantalón cargo multibolsillos",
+    "price": 29.99,
+    "description": "Pantalón cargo con múltiples bolsillos, ideal para actividades al aire libre.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408366/Slice_172_lvhdwx.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a94c8f5473188f621a4"
+    },
+    "stock": 75,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 25,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e926a60a35a34c10f07fb"
+    },
+    "name": "Pantalón jogger básico",
+    "price": 14.99,
+    "description": "Pantalón jogger cómodo y versátil, perfecto para el uso diario y deporte.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408360/Slice_162_ngsefl.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a94c8f5473188f621a4"
+    },
+    "stock": 115,
+    "sales": {
+      "onSale": true,
+      "discount": 10
+    },
+    "salesCount": 45,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e927460a35a34c10f07fd"
+    },
+    "name": "Bermuda cargo tejido ripstop",
+    "price": 29.99,
+    "description": "Bermuda cargo de tejido ripstop, resistente y perfecta para aventuras al aire libre.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408356/Slice_152_qoolnq.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a84c8f5473188f621a0"
+    },
+    "stock": 75,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 30,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e928860a35a34c10f07ff"
+    },
+    "name": "Bermuda cargo cintura elástica",
+    "price": 14.99,
+    "description": "Bermuda cargo con cintura elástica, cómoda y práctica para uso diario.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408352/Slice_142_uxmzav.png",
+    "category": {
+      "$oid": "667c18f78515768b9eebc2d2"
+    },
+    "subcategory": {
+      "$oid": "667c1a84c8f5473188f621a0"
+    },
+    "stock": 115,
+    "sales": {
+      "onSale": true,
+      "discount": 20
+    },
+    "salesCount": 50,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e929060a35a34c10f0801"
+    },
+    "name": "Cronógrafo automático esfera negra",
+    "price": 149.99,
+    "description": "Elegante cronógrafo automático con esfera negra. Precisión y estilo en cada momento.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408346/Slice_14_hhojk5.png",
+    "category": {
+      "$oid": "667c1b4cc8f5473188f621b2"
+    },
+    "subcategory": {
+      "$oid": "667c1b69c8f5473188f621b4"
+    },
+    "stock": 10,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 5,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e929760a35a34c10f0803"
+    },
+    "name": "Reloj de acero Breitling Superocean Héritage",
+    "price": 249.99,
+    "description": "Reloj de acero robusto y elegante. Aventura y sofisticación en cada detalle.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408347/Slice_15_ahpfdy.png",
+    "category": {
+      "$oid": "667c1b4cc8f5473188f621b2"
+    },
+    "subcategory": {
+      "$oid": "667c1b69c8f5473188f621b4"
+    },
+    "stock": 15,
+    "sales": {
+      "onSale": true,
+      "discount": 10
+    },
+    "salesCount": 7,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e92a060a35a34c10f0805"
+    },
+    "name": "Reloj clásico Farer Beagle",
+    "price": 274.99,
+    "description": "Reloj clásico que combina encanto vintage con funcionalidad moderna. Elegancia atemporal.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408348/Slice_16_q4qix8.png",
+    "category": {
+      "$oid": "667c1b4cc8f5473188f621b2"
+    },
+    "subcategory": {
+      "$oid": "667c1b69c8f5473188f621b4"
+    },
+    "stock": 10,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e92a760a35a34c10f0807"
+    },
+    "name": "Reloj Panerai Luminor",
+    "price": 2199.99,
+    "description": "Icónico reloj de lujo con un diseño excepcional. Precisión y estilo sin igual.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408349/Slice_17_axev8m.png",
+    "category": {
+      "$oid": "667c1b4cc8f5473188f621b2"
+    },
+    "subcategory": {
+      "$oid": "667c1b69c8f5473188f621b4"
+    },
+    "stock": 5,
+    "sales": {
+      "onSale": true,
+      "discount": 15
+    },
+    "salesCount": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e92ae60a35a34c10f0809"
+    },
+    "name": "Cinturón efecto piel marrón",
+    "price": 7.99,
+    "description": "Cinturón de piel marrón con un diseño clásico y acabado excepcional. Complemento perfecto para cualquier ocasión.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719429942/pngwingw_ana2fv.png",
+    "category": {
+      "$oid": "667c1b4cc8f5473188f621b2"
+    },
+    "subcategory": {
+      "$oid": "667c1b71c8f5473188f621b6"
+    },
+    "stock": 115,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 25,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e92b960a35a34c10f080b"
+    },
+    "name": "Cinturón efecto piel negro",
+    "price": 9.99,
+    "description": "Cinturón de piel negro con un diseño elegante y detalles de alta calidad. Un accesorio imprescindible para el hombre moderno.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719429943/pngwingv_ded2o8.png",
+    "category": {
+      "$oid": "667c1b4cc8f5473188f621b2"
+    },
+    "subcategory": {
+      "$oid": "667c1b71c8f5473188f621b6"
+    },
+    "stock": 115,
+    "sales": {
+      "onSale": true,
+      "discount": 5
+    },
+    "salesCount": 30,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e92c260a35a34c10f080d"
+    },
+    "name": "Cartera efecto piel marrón",
+    "price": 7.99,
+    "description": "Cartera de piel marrón con un diseño clásico y acabado excepcional. Ideal para organizar tus tarjetas y dinero con estilo.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719429943/pngwingx_ribl9n.png",
+    "category": {
+      "$oid": "667c1b4cc8f5473188f621b2"
+    },
+    "subcategory": {
+      "$oid": "667c1b69c8f5473188f621b4"
+    },
+    "stock": 45,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 15,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e92c960a35a34c10f080f"
+    },
+    "name": "Billetera piel marrón",
+    "price": 24.99,
+    "description": "Billetera de piel marrón con un diseño elegante y detalles de alta calidad. Perfecta para el hombre moderno que valora la funcionalidad y el estilo.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719429943/pngwingy_xr4dqr.png",
+    "category": {
+      "$oid": "667c1b4cc8f5473188f621b2"
+    },
+    "subcategory": {
+      "$oid": "667c1b69c8f5473188f621b4"
+    },
+    "stock": 25,
+    "sales": {
+      "onSale": true,
+      "discount": 10
+    },
+    "salesCount": 20,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e92d160a35a34c10f0811"
+    },
+    "name": "Zapato derby marrón",
+    "price": 7.99,
+    "description": "Zapato derby de piel marrón con un diseño clásico y acabado excepcional. Perfecto para ocasiones formales y casuales.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719417382/pngwing_iuzut7.png",
+    "category": {
+      "$oid": "667c1acfc8f5473188f621a8"
+    },
+    "subcategory": {
+      "$oid": "667c1b03c8f5473188f621ac"
+    },
+    "stock": 45,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 10,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e92d960a35a34c10f0813"
+    },
+    "name": "Zapato vestir marrón",
+    "price": 74.99,
+    "description": "Zapato de vestir marrón con un diseño elegante y detalles de alta calidad. Ideal para complementar tu estilo ejecutivo con sofisticación.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408366/Slice_173_x8yuis.png",
+    "category": {
+      "$oid": "667c1acfc8f5473188f621a8"
+    },
+    "subcategory": {
+      "$oid": "667c1b03c8f5473188f621ac"
+    },
+    "stock": 125,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 5,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e92e260a35a34c10f0815"
+    },
+    "name": "Bota trekking",
+    "price": 124.99,
+    "description": "Bota de trekking diseñada para brindar comodidad y soporte en terrenos difíciles. Ideal para aventuras al aire libre.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408356/Slice_153_iyxbtj.png",
+    "category": {
+      "$oid": "667c1acfc8f5473188f621a8"
+    },
+    "subcategory": {
+      "$oid": "667c1b13c8f5473188f621b0"
+    },
+    "stock": 225,
+    "sales": {
+      "onSale": true,
+      "discount": 20
+    },
+    "salesCount": 50,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e92ed60a35a34c10f0817"
+    },
+    "name": "Bota táctica",
+    "price": 139.99,
+    "description": "Bota táctica de alta calidad, perfecta para actividades al aire libre y uso profesional. Resistente y duradera.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719408353/Slice_143_z6yntj.png",
+    "category": {
+      "$oid": "667c1acfc8f5473188f621a8"
+    },
+    "subcategory": {
+      "$oid": "667c1b13c8f5473188f621b0"
+    },
+    "stock": 215,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 40,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e92f660a35a34c10f0819"
+    },
+    "name": "Nike Air Max 2017",
+    "price": 124.99,
+    "description": "Zapatillas Nike Air Max 2017, combinan estilo y comodidad con tecnología de amortiguación avanzada. Perfectas para el uso diario.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719417384/pngwinga_os6iau.png",
+    "category": {
+      "$oid": "667c1acfc8f5473188f621a8"
+    },
+    "subcategory": {
+      "$oid": "667c1b0ac8f5473188f621ae"
+    },
+    "stock": 205,
+    "sales": {
+      "onSale": true,
+      "discount": 10
+    },
+    "salesCount": 60,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e92fe60a35a34c10f081b"
+    },
+    "name": "Nike Air Max 97",
+    "price": 149.99,
+    "description": "Zapatillas Nike Air Max 97, diseño icónico con comodidad superior y tecnología de amortiguación. Ideal para un estilo de vida activo.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719417391/pngwingc_mmidh9.png",
+    "category": {
+      "$oid": "667c1acfc8f5473188f621a8"
+    },
+    "subcategory": {
+      "$oid": "667c1b0ac8f5473188f621ae"
+    },
+    "stock": 150,
+    "sales": {
+      "onSale": false,
+      "discount": 0
+    },
+    "salesCount": 45,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e930660a35a34c10f081d"
+    },
+    "name": "Nike KD 9",
+    "price": 249.99,
+    "description": "Zapatillas Nike KD 9, diseñadas para el máximo rendimiento en la cancha y comodidad fuera de ella. Innovación y estilo en cada paso.",
+    "image": "https://res.cloudinary.com/dhfbjdhtu/image/upload/v1719417394/pngwingd_bqimgc.png",
+    "category": {
+      "$oid": "667c1acfc8f5473188f621a8"
+    },
+    "subcategory": {
+      "$oid": "667c1b0ac8f5473188f621ae"
+    },
+    "stock": 75,
+    "sales": {
+      "onSale": true,
+      "discount": 15
+    },
+    "salesCount": 30,
+    "__v": 0
+  }
+]
